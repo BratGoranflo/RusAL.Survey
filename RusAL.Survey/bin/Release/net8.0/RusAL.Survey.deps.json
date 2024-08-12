@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RusAL.Survey/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "8.0.0",
+          "Q101.ConsoleHelper": "1.0.1",
+          "Q101.ServiceCollectionExtensions": "1.0.4"
+        },
+        "runtime": {
+          "RusAL.Survey.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Q101.ConsoleHelper/1.0.1": {
+        "runtime": {
+          "lib/net45/Q101.ConsoleHelper.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Q101.ServiceCollectionExtensions/1.0.4": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/Q101.ServiceCollectionExtensions.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RusAL.Survey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8S3bsm50ig6JSyrbcJJ8bW2b9QLGouz+G1miK3UTaOWmMtFwNNNzUf4AleyDWUmTrWMLNnFSLEQtxmxgNQnNQ==",
+      "path": "microsoft.extensions.dependencyinjection/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
+    "Q101.ConsoleHelper/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+e31Aq/Z09kV4i2R68DYUsUXkMjdlMz7C1tECUpHsZQBhWcYzYdW20uXOblc/ztXhVkbUliSp6Ab4m/VPNd5tg==",
+      "path": "q101.consolehelper/1.0.1",
+      "hashPath": "q101.consolehelper.1.0.1.nupkg.sha512"
+    },
+    "Q101.ServiceCollectionExtensions/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WVC0J/zFzi4Xv3Wk/bQsNXA9BlbdzsyNk9q6fCxAzmfjGBF6xow+PckJ9QYKdU+wiyol8NSyqJ7dSCGD7RmpDQ==",
+      "path": "q101.servicecollectionextensions/1.0.4",
+      "hashPath": "q101.servicecollectionextensions.1.0.4.nupkg.sha512"
+    }
+  }
+}
