@@ -6,7 +6,7 @@ using RusAL.Survey.Services.Abstract;
 namespace RusAL.Survey.CommandServices
 {
     /// <summary>
-    /// Заполнить новую анкету
+    /// Сохранит анкету в файл
     /// </summary>
     public class SaveProfileCommandSevice : ICommandService
     {
