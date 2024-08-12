@@ -49,7 +49,7 @@ namespace RusAL.Survey.Commands.Concrete
             {
                 command.Service.Start(out hasErrors, survey);
                 // перезапускаем внутренние команды
-                if (survey.NextQuestion != 0)
+                if (survey.NextQuestion >= 0)
                 {
                     command.Service.Start(out hasErrors, survey, survey.NextQuestion);
                 }
