@@ -1,9 +1,0 @@
-D:\DEPLOY\RusALSurvey\RusAL.Survey.exe
-D:\DEPLOY\RusALSurvey\RusAL.Survey.dll
-D:\DEPLOY\RusALSurvey\RusAL.Survey.deps.json
-D:\DEPLOY\RusALSurvey\RusAL.Survey.runtimeconfig.json
-D:\DEPLOY\RusALSurvey\RusAL.Survey.pdb
-D:\DEPLOY\RusALSurvey\Microsoft.Extensions.DependencyInjection.dll
-D:\DEPLOY\RusALSurvey\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\DEPLOY\RusALSurvey\Q101.ConsoleHelper.dll
-D:\DEPLOY\RusALSurvey\Q101.ServiceCollectionExtensions.dll
