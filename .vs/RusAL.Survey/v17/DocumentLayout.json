@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\WORK_PET\\RusAL.Survey\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commandservices\\saveprofilecommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commandservices\\saveprofilecommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commandservices\\statisticscommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commandservices\\statisticscommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commands\\concrete\\consolecommandprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commands\\concrete\\consolecommandprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commands\\concrete\\consolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commands\\concrete\\consolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commands\\abstract\\iconsolecommandprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\models\\surveyitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commandservices\\statisticscommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commandservices\\statisticscommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\services\\concrete\\filesurveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\services\\concrete\\filesurveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,14 +59,6 @@
       "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commands\\concrete\\consolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commands\\concrete\\consolecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commandservices\\saveprofilecommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commandservices\\saveprofilecommandsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|c:\\work_pet\\rusal.survey\\rusal.survey\\commands\\abstract\\icommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5223086C-B411-400D-B787-EC5706A96AEF}|RusAL.Survey\\RusAL.Survey.csproj|solutionrelative:rusal.survey\\commands\\abstract\\icommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -74,20 +74,21 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "StatisticsCommandSevice.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\StatisticsCommandSevice.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\CommandServices\\StatisticsCommandSevice.cs",
               "ToolTip": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\StatisticsCommandSevice.cs",
               "RelativeToolTip": "RusAL.Survey\\CommandServices\\StatisticsCommandSevice.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABSAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEEAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T15:45:14.079Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SurveyHelper.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Helpers\\SurveyHelper.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Helpers\\SurveyHelper.cs",
@@ -100,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "NewProfileCommandSevice.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\NewProfileCommandSevice.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\CommandServices\\NewProfileCommandSevice.cs",
@@ -113,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Startup.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Startup.cs",
@@ -126,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IConsoleCommandHandler.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Commands\\Abstract\\IConsoleCommandHandler.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Commands\\Abstract\\IConsoleCommandHandler.cs",
@@ -139,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "ConsoleCommandHandler.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Commands\\Concrete\\ConsoleCommandHandler.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Commands\\Concrete\\ConsoleCommandHandler.cs",
@@ -148,7 +149,8 @@
               "ViewState": "AQIAACcAAAAAAAAAAAAuwDEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:51:58.695Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -176,19 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SurveyItemDto.cs",
-              "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Models\\SurveyItemDto.cs",
-              "RelativeDocumentMoniker": "RusAL.Survey\\Models\\SurveyItemDto.cs",
-              "ToolTip": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Models\\SurveyItemDto.cs",
-              "RelativeToolTip": "RusAL.Survey\\Models\\SurveyItemDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T16:07:23.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Extensions\\ServiceCollectionExtensions.cs",
@@ -200,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "SurveyItem.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Models\\SurveyItem.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Models\\SurveyItem.cs",
@@ -212,20 +202,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ConsoleCommandProvider.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Commands\\Concrete\\ConsoleCommandProvider.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Commands\\Concrete\\ConsoleCommandProvider.cs",
               "ToolTip": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Commands\\Concrete\\ConsoleCommandProvider.cs",
               "RelativeToolTip": "RusAL.Survey\\Commands\\Concrete\\ConsoleCommandProvider.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T13:20:25.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "SaveProfileCommandSevice.cs",
+              "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
+              "RelativeDocumentMoniker": "RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
+              "ToolTip": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
+              "RelativeToolTip": "RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T12:54:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SurveyItemDto.cs",
+              "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Models\\SurveyItemDto.cs",
+              "RelativeDocumentMoniker": "RusAL.Survey\\Models\\SurveyItemDto.cs",
+              "ToolTip": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Models\\SurveyItemDto.cs",
+              "RelativeToolTip": "RusAL.Survey\\Models\\SurveyItemDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T16:07:23.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IConsoleCommandProvider.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Commands\\Abstract\\IConsoleCommandProvider.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Commands\\Abstract\\IConsoleCommandProvider.cs",
@@ -237,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IFileSurveyService.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Services\\Abstract\\IFileSurveyService.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Services\\Abstract\\IFileSurveyService.cs",
@@ -249,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "FileSurveyService.cs",
               "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\Services\\Concrete\\FileSurveyService.cs",
               "RelativeDocumentMoniker": "RusAL.Survey\\Services\\Concrete\\FileSurveyService.cs",
@@ -258,18 +273,6 @@
               "ViewState": "AQIAADYAAAAAAAAAAAAxwEMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-12T12:54:25.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SaveProfileCommandSevice.cs",
-              "DocumentMoniker": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
-              "RelativeDocumentMoniker": "RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
-              "ToolTip": "C:\\WORK_PET\\RusAL.Survey\\RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
-              "RelativeToolTip": "RusAL.Survey\\CommandServices\\SaveProfileCommandSevice.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T12:54:17.077Z"
             },
             {
               "$type": "Document",

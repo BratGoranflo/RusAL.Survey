@@ -29,9 +29,7 @@ namespace RusAL.Survey.CommandServices
         public void Start(out bool hasErrors, SurveyItem survey, int startQuestion)
         {
              hasErrors = false;
-
-            _fileService.WriteSurvayFile(survey);
-            
+            _fileService.WriteSurvayFile(survey);            
         }
 
     }
